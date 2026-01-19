@@ -20,11 +20,7 @@ _\* Permite agregar productos a un carrito personal, además de guardarlos para 
 
 _Para poder disfrutar del sitio web existen dos maneras en las que se puede ingresar_
 
-_**1.** A través del link que se encuentra a continuación:_
-http://127.0.0.1:5500/proyecto-final-web-VestIA-main/index.html -**Página web oficial de VestIA**
-
-_Si el primer link no funciona usa este:_
-http://127.0.0.1:5500/index.html#
+_**1.** A través del link que se encuentra a continuación:_ https://mikelm2006.github.io/VestIA/ -**Página web oficial de VestIA**
 
 _**2.** Descargando el repositorio del proyecto_
 
@@ -48,6 +44,6 @@ _6. DummyJSON API_
 
 ## Autores ✒️
 
-- Mathias Carstens
 - Mikel Muñoz
+- Mathias Carstens
 - Carlos Pinto
